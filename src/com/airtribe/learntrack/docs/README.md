@@ -1,0 +1,2 @@
+add exceptions everywhere
+check input validations everywhere
